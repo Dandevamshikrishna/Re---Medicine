@@ -16,8 +16,8 @@ Build an Email and SMS Reminder Service using Flask 2.0 and APScheduler python
 - view specific reminder
 
 - reminder notification
-	1. send SMS Notification
-    2. send Email Notification
+1. send SMS Notification
+2. send Email Notification
 
 ## Requirements
 - python 3.8
@@ -71,5 +71,3 @@ SMTP_PORT=587
 
 
 # Re-Medicine
-# Re-Medicine
-# Digital2
